@@ -1,0 +1,1 @@
+Implementación del algoritmo de Jacobi mediante la divisón en matrices de 2x2
